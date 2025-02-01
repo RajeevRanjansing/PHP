@@ -1,1 +1,30 @@
+//.Introduction to PHP
+
+PHP stands for Hypertext preprocessor.
+
+PHP is object oriented language. It means it follow the rule of Encapsulation, Polymorphism, Abstraction, Inheritancce.
+PHP is Platform Independent it means it can run on any Platform.
+PHP is Interpreted language.
+PHP is server side scripting Language.
+
+Famous website in Php are Facebook, Yahoo, WordPress, canva, Flipkart,  Twitter, spotify.
+
+HTML directly database se connect nhi hota h, to uske liye php ka use karke HTML ko database se connect karate h. 
+php ki jagah Java python C++ hmlog use kar sakte h. 
+
+PHP ko controller bolte h.
+
+XAMPP software is used to for php 
+(x=Any Platform either window, Linux, etc)
+(A=Apache)
+(M=MySQL)
+(p=PHP)
+(p=Perl)
+
+MVC
+HTML,CSS, JavaScript ko View bolte h.
+PHP ko controller bolte h.
+Database ko model bolte h.
+
+ 
 
