@@ -1,1 +1,20 @@
+Our First PHP Program
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHP Session</title>
+</head>
+<body>
+    <marquee style="font-size:30px">Welcome to our First PHP Course</marquee>		//HTML code
+   
+   <?php 
+    echo "<font color=red size=10>Hello php learner</font>";		//PHP code always written in php tag
+    print("<br>This is our first php program")
+    ?>
+    
+</body>
+</html>
 
