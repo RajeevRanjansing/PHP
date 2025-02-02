@@ -1,1 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHP Session</title>
+</head>
+<body>
+    <marquee style="font-size:30px">Welcome to our First PHP Course</marquee>
+
+   <?php 
+
+    $a=100;
+    echo "<br>";
+    echo  "Value of a is ".$a;			//output is Value of a is 100
+    ?>						//In java, we write "Value of a is" +a  //But in PHP, there is dot operator, we write "Value of a".a	concatenation
+    
+</body>
+</html>
 
