@@ -8,17 +8,16 @@
     <title>PHP Session</title>
 </head>
 <body>
-    <marquee style="font-size:30px">Welcome to our First PHP Course</marquee>
-   <center>
-   <?php 
+    <marquee style="font-size:30px">Welcome to our First PHP Program</marquee>
+
+<?php 
 
     $a=100;
     $b=50;
     $c=$a+$b;
     echo"Addition of " .$a ." and " .$b . " is " .$c;
-
-    ?>
-</center>
+   
+?>
     
 </body>
 </html>
