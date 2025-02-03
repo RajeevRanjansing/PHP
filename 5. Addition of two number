@@ -1,1 +1,25 @@
+//Addition of Two number 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHP Session</title>
+</head>
+<body>
+    <marquee style="font-size:30px">Welcome to our First PHP Course</marquee>
+   <center>
+   <?php 
+
+    $a=100;
+    $b=50;
+    $c=$a+$b;
+    echo"Addition of " .$a ." and " .$b . " is " .$c;
+
+    ?>
+</center>
+    
+</body>
+</html>
 
