@@ -1,1 +1,44 @@
+Data Type in PHP
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PHP Session</title>
+</head>
+<body>
+    <marquee style="font-size:30px;color:red">Welcome to our First PHP Course</marquee>
+    <center >
+   <?php 
+    /*  int
+        float
+        string
+        boolean
+        array
+        object
+        null    */
+
+        $a=100;  //int
+        echo $a."<br>";
+
+        $b=25.66; //float
+        echo $b."<br>";
+
+        $c="Hello World"; //string
+        echo $c."<br>";
+
+        $d=TRUE;     //boolean
+        echo $d."<br>";
+
+        $ar=array("Indore","Pune","Mumbai","Gujarat");    //array
+        print_r($ar);
+
+        $e=null;
+        echo $e;
+
+    ?>
+    </center>
+</body>
+</html>
 
