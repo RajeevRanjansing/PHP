@@ -1,1 +1,25 @@
+//To find area of circle
+
+//Constant Variable declaration
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>constant variable declare</title>
+</head>
+<body>
+    <?php 
+    
+    define('PI',3.14);			//Here value of PI is 3.14, we cannot change throughout the program.
+    
+    $r=12.45;
+    
+    $area=PI*$r*$r;
+
+    echo" Area of circle is ".$area;
+    ?>
+</body>
+</html>
 
